@@ -138,4 +138,5 @@ results/
 *.hdf5
 *.model
 *.pkl
-*.joblib 
+*.joblib
+.cursorrules # Cursor IDE specific files 
